@@ -1,0 +1,25 @@
+.table {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  padding: 10px;
+
+  text-align: center;
+}
+
+.caption {
+  background-color: cornflowerblue;
+}
+
+.title {
+  padding: 15px;
+}
+
+.line:nth-child(2n + 1) {
+  background-color: #ccc;
+}
+
+.item {
+  padding: 15px;
+}
